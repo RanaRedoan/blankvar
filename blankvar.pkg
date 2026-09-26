@@ -1,0 +1,18 @@
+v 3
+d blankvar: blank out variables, whatever their storage type
+d
+d blankvar clears the listed variables for the observations selected
+d by an optional if/in qualifier. String variables are set to "" and
+d numeric variables to system missing (.), so one command replaces a
+d run of hand-written -replace- statements when voiding records in a
+d dataset with mixed column types.
+d
+d Requires: Stata version 14
+d
+d Distribution-Date: 20260926
+d
+d Author: Rana Redoan
+d Support: https://github.com/RanaRedoan/blankvar/issues
+d
+f blankvar.ado
+f blankvar.sthlp
