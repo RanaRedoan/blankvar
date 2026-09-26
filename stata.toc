@@ -1,5 +1,5 @@
 v 3
-d ARCED Foundation {hline 2} Stata data-cleaning utilities
+d Stata data-cleaning utilities
 d
 d Distribution-Date: 20260926
 d
