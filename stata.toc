@@ -1,0 +1,6 @@
+v 3
+d ARCED Foundation {hline 2} Stata data-cleaning utilities
+d
+d Distribution-Date: 20260926
+d
+p blankvar (blank out variables, string or numeric, in one command)
