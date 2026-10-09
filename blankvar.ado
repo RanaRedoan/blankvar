@@ -1,6 +1,6 @@
 *! blankvar 1.0.0  26sep2026
 *! Blank out variables: string -> "", numeric -> . (system missing)
-*! Redoan Hossain, ARCED Foundation
+*! Md. Redoan Hossain Bhuiyan
 
 program define blankvar, rclass
     version 14.0

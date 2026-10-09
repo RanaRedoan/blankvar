@@ -116,8 +116,8 @@ with {helpb count} or {helpb list}, if you are not sure of it.
 {title:Author}
 
 {pstd}
-Redoan Hossain{break}
-ARCED Foundation
+Md. Redoan Hossain Bhuiyan{break}
+{browse "mailto:redoanhossain630@gmail.com":redoanhossain630@gmail.com}
 
 
 {title:Also see}
